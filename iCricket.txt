@@ -1,0 +1,61 @@
+Developer Key: F46A30E6ABBD4F9084C54D9FDC15C6D8
+
+
+<!-- VCricket Score Feed Code Start v 3.00 -->
+<script language="JavaScript" type="text/JavaScript" src="http://ifeed.vcricket.com/get_code.aspx?dk=F46A30E6ABBD4F9084C54D9FDC15C6D8&amp;sc=&amp;sz=180x320">
+</script>
+
+<noscript>
+<a href="http://www.vcricket.com/help.aspx?q=java_disable"  target="_blank">
+<img src="/images/error_java_180x320.gif"  alt="Javascript is disabled." width="180" height="320" border="0" />
+</a>
+</noscript>
+
+<!-- Please note this will not work if directly run in browser. -->
+<!-- VCricket Score Feed Code End -->
+
+
+
+
+
+
+<!-- VCricket Score Feed Code Start v 3.00 -->
+
+<script language="JavaScript" type="text/JavaScript" src="http://ifeed.vcricket.com/get_code.aspx?dk=F46A30E6ABBD4F9084C54D9FDC15C6D8&amp;sc=IN&amp;sz=180x320">
+</script>
+
+<noscript><a href="http://www.vcricket.com/help.aspx?q=java_disable"  target="_blank"><img src="/images/error_java_180x320.gif"  alt="Javascript is disabled." width="180" height="320" border="0" /></a>
+</noscript>
+
+<!-- Please note this will not work if directly run in browser. --><!-- VCricket Score Feed Code End -->
+
+
+
+// Javascript document
+document.write("
+
+<a href=\"http://ifeed.vcricket.com/current.aspx?t=AU\" target=\"_blank\" >");document.write("<img src=\"http://ifeed.vcricket.com/get_scorecard.aspx?sc=AU&sz=180x320&token=123456\" width=\"180\" height=\"320\" border=\"0\" alt=\"Cricket Score Updates powered by vCricket.com\">");document.write("</a>");
+
+
+
+
+
+<!-- VCricket Score Feed Code Start v 3.00 -->
+<script language="JavaScript" type="text/JavaScript" src="http://ifeed.vcricket.com/get_code.aspx?dk=F46A30E6ABBD4F9084C54D9FDC15C6D8&amp;sc=&amp;sz=180x320">
+</script>
+<noscript>
+
+<a href="http://www.vcricket.com/help.aspx?q=java_disable"  target="_blank">
+<img src="http://images-1.vcricket.com/images/error_java_180x320.gif"  alt="Javascript is disabled." width="180" height="320" border="0" />
+</a>
+</noscript>
+
+<!-- Please note this will not work if directly run in browser. -->
+<!-- VCricket Score Feed Code End -->
+
+// Javascript document
+document.write("
+
+<a href=\"http://www.vcricket.com/live_cricket_scores/India_vs_Ireland.html\" target=\"_blank\" >");
+
+document.write("<img src=\"http://ifeed.vcricket.com/get_scorecardEx.aspx?sc=IN-en&sz=180x320&token=123456\" width=\"180\" height=\"320\" border=\"0\" alt=\"Cricket Score Updates powered by vCricket.com\">");document.write("</a>");

@@ -1,0 +1,13 @@
+<select name="team"><option value="10">ACT Invitational XI</option><option value="AF">Africa XI</option><option value="12">Ahmedabad Rockets</option><option value="AS">Asia XI</option><option value="AU">Australia</option><option value="BD">Bangladesh</option><option value="BM">Bermuda</option><option value="CA">Canada</option><option value="04">Chandigarh Lions</option><option value="07">Chennai Superstars</option><option value="25">Delhi</option><option value="05">Delhi Giants</option><option value="28">Dhaka Warriors</option><option value="UK">England</option><option value="HK">Hong Kong</option><option value="06">Hyderabad Heroes</option><option value="37">ICL Bangladesh</option><option value="21">ICL India</option><option value="22">ICL Pakistan</option><option value="23">ICL World</option><option value="IN">India</option><option value="01">India Blue</option><option value="27">India Board XI</option><option value="02">India Green</option><option value="03">India Red</option>
+
+
+<option value="13">IPL Bangalore</option>
+<option value="16">IPL Chennai</option>
+<option value="17">IPL Delhi</option>
+<option value="19">IPL Hyderabad</option>
+<option value="14">IPL Kolkata</option>
+<option value="20">IPL Mumbai</option>
+<option value="15">IPL Punjab</option>
+<option value="18">IPL Rajasthan</option>
+
+<option value="IE">Ireland</option><option value="KE">Kenya</option><option value="11">Lahore Badshahs</option><option value="30">Middlesex</option><option value="38">Mumbai</option><option value="09">Mumbai Champs</option><option value="NL">Netherlands</option><option value="NZ">New Zealand</option><option value="PK">Pakistan</option><option value="26">Rest of India</option><option value="08">Royal Bengal Tigers</option><option value="SD">Scotland</option><option value="ZA">South Africa</option><option value="SL">Sri Lanka</option><option value="24">Sri Lanka Board XI</option><option value="29">Stanford Superstars</option><option value="31">Trinidad and Tobago</option><option value="AE">United Arab Emirates</option><option value="39">Uttar Pradesh</option><option value="WI">West Indies</option><option value="ZW">Zimbabwe</option>
